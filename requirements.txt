@@ -1,0 +1,9 @@
+# Python packages (pip install -r requirements.txt)
+pandas
+numpy
+pyomo
+openpyxl
+
+# Also required: the GLPK solver binary (system package, not pip-installable)
+#   Debian/Ubuntu: apt install glpk-utils
+#   macOS:         brew install glpk

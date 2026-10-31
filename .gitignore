@@ -1,0 +1,15 @@
+# Outputs
+results.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Coursework data (not redistributable)
+data/*.xlsx
